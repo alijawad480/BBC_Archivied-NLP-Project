@@ -54,4 +54,5 @@ Given the text of a news article, the model predicts its category using natural 
      - “Apple unveils new AI-powered MacBooks.” → *Tech*
 
 ## 📈 Sample Results
-
+   - Microsoft releases new version of Windows.
+   - prediction= tech
